@@ -38,16 +38,16 @@ ___
 - Built 4+ interactive visualizations (word frequency charts, sentiment distribution, and keyword analysis) to improve data interpretation and user decision-making.
 
 🔗 Repository Link:  
-[Click here to view the project](https://github.com/arshitbh25/your-repo-name)
+[Click here to view the project](https://github.com/arshitbh25/text-analysis-platform-using-python-genai)
 
 
-**🏥 2. Hospital Database Creation and Automation**
+**🏥 2. Hospital Database Design and Automation**
 - Designed and normalized a hospital database by segregating 6+ entities (Departments, Doctors, Patients, Appointments, Reports, Prescriptions) from Excel into structured relational tables.
 - Implemented 1 trigger and 2 parameterized stored procedures to enforce appointment validation and enable role-based data access and monthly revenue reporting.
 - Improved data integrity and scalability by eliminating 100% duplicate and past-date appointment entries through automated validation logic in MS SQL.
 
 🔗 Repository Link:  
-[Click here to view the project](https://github.com/arshitbh25/your-repo-name)
+[Click here to view the project](https://github.com/arshitbh25/hospital-database-design-and-automation-sql)
 
 
 ___
@@ -72,8 +72,6 @@ ___
 
 ___
 <h2>🤝 Connect With Me</h2>
-
-# 🤝 Connect With Me
 
 <p align="left">
 
