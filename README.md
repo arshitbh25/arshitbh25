@@ -79,7 +79,7 @@ ___
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="arshitbh25@gmail.com" target="_blank">
+<a href="mailto:arshitbh25@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
