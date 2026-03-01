@@ -32,7 +32,7 @@ ___
 ___
 <h2>📌 Featured Projects</h2>
 
-**🛒 Olist E-Commerce Sales Intelligence & Customer Behavior Analysis**
+**🛒 RetailIQ: E-Commerce Sales and Customer Analytics**
 - Built an end-to-end analytics pipeline **processing 100K+ transactional records**, improving data reliability and enabling analysis of **$10.8M revenue**, which helped identify top product categories **contributing 26% of total sales**.
 - Cleaned and **transformed 80K+ orders, 75K+ customers, and 32K+ products**, eliminating inconsistent and invalid records, improving data accuracy and enabling reliable business performance tracking.
 - Developed an interactive dashboard **tracking 80K+ orders, $10.8M sales, and customer trends**, **helping uncover delivery delays impacting review scores by 38%**, supporting operational improvement opportunities.
