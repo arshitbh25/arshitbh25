@@ -92,7 +92,7 @@ ___
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://sites.google.com/view/arshit-bhardwaj/" target="_blank">
+<a href="https://arshitbhardwaj.edgeone.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
