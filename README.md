@@ -41,7 +41,7 @@ ___
 [Click here to view the project](https://github.com/arshitbh25/olist-ecommerce-end-to-end-data-analysis-project)
 
 
-**🧠 1. Interactive Text Analysis Platform using GenAI**
+**🧠 Interactive Text Analysis Platform using GenAI**
 - Built an interactive NLP platform handling inputs up to **500+ words**, delivering sentiment, emotion and summary insights in **under 7 seconds** using Gen AI.
 - Integrated Hugging Face Transformers and Pipelines to perform **3 key NLP tasks** using pre-trained models fine-tuned on benchmark datasets.
 - Built **4+ interactive visualizations** (word frequency charts, sentiment distribution, and keyword analysis) to improve data interpretation and user decision-making.
@@ -50,7 +50,7 @@ ___
 [Click here to view the project](https://github.com/arshitbh25/text-analysis-platform-using-python-genai)
 
 
-**🏥 2. Hospital Database Design and Automation**
+**🏥 Hospital Database Design and Automation**
 - Designed and normalized a hospital database by segregating **6+ entities** (Departments, Doctors, Patients, Appointments, Reports, Prescriptions) from Excel into structured relational tables.
 - **Implemented 1 trigger and 2 parameterized stored procedures** to enforce appointment validation and enable role-based data access and monthly revenue reporting.
 - Improved data integrity and scalability by **eliminating 100% duplicate and past-date appointment entries** through automated validation logic in MS SQL.
